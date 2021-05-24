@@ -1,0 +1,10 @@
+C:\Users\Алина\Desktop\Учёба\Lessons\SRS\bin\Debug\SRS.exe.config
+C:\Users\Алина\Desktop\Учёба\Lessons\SRS\bin\Debug\SRS.exe
+C:\Users\Алина\Desktop\Учёба\Lessons\SRS\bin\Debug\SRS.pdb
+C:\Users\Алина\Desktop\Учёба\Lessons\SRS\obj\Debug\SRS.csprojAssemblyReference.cache
+C:\Users\Алина\Desktop\Учёба\Lessons\SRS\obj\Debug\SRS.Form1.resources
+C:\Users\Алина\Desktop\Учёба\Lessons\SRS\obj\Debug\SRS.Properties.Resources.resources
+C:\Users\Алина\Desktop\Учёба\Lessons\SRS\obj\Debug\SRS.csproj.GenerateResource.cache
+C:\Users\Алина\Desktop\Учёба\Lessons\SRS\obj\Debug\SRS.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\Учёба\Lessons\SRS\obj\Debug\SRS.exe
+C:\Users\Алина\Desktop\Учёба\Lessons\SRS\obj\Debug\SRS.pdb
